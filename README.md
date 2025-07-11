@@ -1,2 +1,2 @@
 # mqtt
-MQTT软件资料
+onenet-studio-api-node-sdk-master：生成token所需要的文件。
